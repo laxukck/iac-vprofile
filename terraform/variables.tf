@@ -9,5 +9,3 @@ variable "clusterName" {
   type        = string
   default     = "vprofile-eks"
 }
-
-## Keeping this coz, want to see jobs runnin
